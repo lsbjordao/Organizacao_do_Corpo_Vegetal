@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "test"
+  author: "Jane Doe"
+  date: "04/12/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-depth: 4
+    toc-depth: 4
+    toc-title: Conteudo
+    code-copy: true
+    smooth-scroll: true
+
+editor: visual
+
