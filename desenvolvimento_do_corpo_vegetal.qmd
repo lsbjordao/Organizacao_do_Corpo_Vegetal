@@ -1,0 +1,38 @@
+# Desenvolvimento do Corpo Vegetal
+
+- Plantas são organismos modulares com crescimento indeterminado.
+
+**Fitômero** = Nó + Entrenó
+
+Nó = Folha + gema axilar
+
+
+- A ontogenia compreende todo o desenvolvimento da vida de um organismo.
+
+- O desenvolvimento da vida de um vegetal envolve as fases de:
+  - Embriogênese
+  - Morfogênese
+  - Crescimento
+  - Diferenciação
+  - Reprodução
+    - Gametogênese e esporogênese
+
+## Embriogênese
+
+Inicialmente, o embrião consiste em um conjunto de células relativamente indiferenciadas. Precocemente, entretanto, mudanças na sua estrutura interna resultam no desenvolvimento inicial de três sistemas de tecidos com disposição concêntrica, do mais externo para o mais interno.
+
+## Morfogênese
+
+O corpo vegetal é classificado como primário ou secundário
+
+- Corpo primário
+
+- Corpo secundário
+
+## Crescimento
+
+## Diferenciação
+
+### Epiderme
+
+### Colênquima

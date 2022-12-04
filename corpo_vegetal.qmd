@@ -1,0 +1,31 @@
+# Corpo Vegetal
+
+See @knuth84 for additional discussion of literate programming.This is a book created from markdown and executable code.
+
+```{r}
+1 + 1
+```
+
+## Organismo vegetal
+
+- As plantas são organismos eucariontes, pluricelulares e autotróficos.
+
+- O organismo vegetal é um ser corpóreo imóvel.
+
+- O corpo vegetal pode ser formado por tecidos diferenciados ou indiferenciados.
+
+- Denomina-se talo, o corpo do vegetal que possui tecidos indiferenciados, não se constituindo em órgãos.
+
+- Os órgãos básicos das plantas são a raiz, o caule a folha.
+
+- O corpo das Embriófitas apresenta duas gerações: o gametófito e o esporófito.
+
+
+## Níveis de organização
+
+- O corpo vegetal é estruturalmente organizado em três níveis:
+  - Celular
+  - Tecidual
+  - Sistêmico
+  
+- Cada nível apresenta propriedades emergentes

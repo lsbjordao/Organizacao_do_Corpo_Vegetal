@@ -2,13 +2,15 @@ project:
   type: book
 
 book:
-  title: "test"
-  author: "Jane Doe"
-  date: "04/12/2022"
+  title: "Organização do Corpo Vegetal"
+  subtitle: "Células, Tecidos e Sistemas Vegetais"
+  author: "Lucas S.B. Jordão"
+  date: "12/04/2022"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - corpo_vegetal.qmd
+    - celula_vegetal.qmd
+    - desenvolvimento_do_corpo_vegetal.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -19,7 +21,7 @@ format:
     toc: true
     number-depth: 4
     toc-depth: 4
-    toc-title: Conteudo
+    toc-title: Conteúdo
     code-copy: true
     smooth-scroll: true
 
