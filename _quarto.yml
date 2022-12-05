@@ -6,18 +6,23 @@ book:
   subtitle: "Células, Tecidos e Sistemas Vegetais"
   author: "Lucas S.B. Jordão"
   date: "12/04/2022"
+  repo-url: https://github.com/lsbjordao/Organizacao_do_Corpo_Vegetal
   chapters:
     - index.qmd
     - corpo_vegetal.qmd
     - celula_vegetal.qmd
     - desenvolvimento_do_corpo_vegetal.qmd
     - references.qmd
+  sidebar:
+    logo: logo.png
+  
+lang: pt
 
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     toc: true
     number-depth: 4
     toc-depth: 4

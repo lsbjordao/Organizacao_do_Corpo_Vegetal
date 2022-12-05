@@ -1,31 +1,113 @@
 # Corpo Vegetal
 
-See @knuth84 for additional discussion of literate programming.This is a book created from markdown and executable code.
-
-```{r}
-1 + 1
-```
-
 ## Organismo vegetal
 
+::: {.grid}
+
+::: {.g-col-6}
 - As plantas são organismos eucariontes, pluricelulares e autotróficos.
+:::
 
+::: {.g-col-6}
+![](images/folha.jpg)
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-6}
 - O organismo vegetal é um ser corpóreo imóvel.
+:::
 
-- O corpo vegetal pode ser formado por tecidos diferenciados ou indiferenciados.
+::: {.g-col-6}
+![](images/plant.jpg)
+:::
 
-- Denomina-se talo, o corpo do vegetal que possui tecidos indiferenciados, não se constituindo em órgãos.
+:::
 
-- Os órgãos básicos das plantas são a raiz, o caule a folha.
 
-- O corpo das Embriófitas apresenta duas gerações: o gametófito e o esporófito.
+::: {.grid}
+
+::: {.g-col-6}
+- O corpo vegetal pode ser formado por tecidos **diferenciados** ou **indiferenciados**.
+:::
+
+::: {.g-col-6}
+![](images/quercus.jpg)
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-6}
+- Denomina-se **talo**, o corpo do vegetal que possui tecidos indiferenciados, não se constituindo em órgãos.
+:::
+
+::: {.g-col-6}
+![](images/marchantia.jpg)
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-6}
+- Os órgãos básicos das plantas são a **raiz**, o **caule** e a **folha**.
+:::
+
+::: {.g-col-6}
+![](images/mimosa_echinocaula_MFS.JPG)
+*Mimosa echinocaula* Foto: Marcelo F Simon
+:::
+
+:::
+
+
+
+- O corpo das Embriófitas apresenta duas gerações: o **gametófito** e o **esporófito**.
 
 
 ## Níveis de organização
 
-- O corpo vegetal é estruturalmente organizado em três níveis:
+- O corpo vegetal das Embriófitas é estruturalmente organizado em três níveis de organização:
   - Celular
   - Tecidual
   - Sistêmico
   
 - Cada nível apresenta propriedades emergentes
+
+## O eixo caule-raiz
+
+A polaridade é um componente-chave da formação do padrão biológico. As raízes se formam na extremidade inferior do ramo e as folhas e as gemas, na extremidade superior. @Raven_etal_2014
+
+A polaridade geral do eixo caule-raiz de uma planta é estabelecida durante a embriogênese e é atribuída ao transporte polar ou unidirecional do hormônio auxina na planta. A auxina é o único hormônio vegetal conhecido que apresenta transporte polar @Raven_etal_2014.
+
+O estabelecimento da polaridade é a primeira etapa essencial no desenvolvimento de todos os organismos superiores, pois ele fixa o eixo estrutural do corpo vegetativo, a “espinha dorsal” sobre a qual os apêndices laterais estarão dispostos @Raven_etal_2014.
+
+O sistema caulinar e radicular
+
+### Sistema caulinar
+
+- O sistema caulinar é um sistema contínuo de tecidos (epidérmico,
+fundamental, vascular)
+
+
+::: {.grid}
+
+::: {.g-col-6}
+- As folhas são **caules modificados**.
+  - Na axila de toda folha há uma **gema axilar**.
+:::
+
+::: {.g-col-6}
+![](images/gema_axilar.png)
+:::
+
+:::
+
+### Sistema radicular
